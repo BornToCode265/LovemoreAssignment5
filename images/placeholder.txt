@@ -1,0 +1,16 @@
+This folder contains placeholder images for the Personal Narrative website.
+
+Required images:
+- student-photo.jpg (200x200px) - Student's profile photo
+- hobby1.jpg (600x300px) - Photography related image
+- hobby2.jpg (600x300px) - Reading related image
+- education1.jpg (600x300px) - University campus image
+- education2.jpg (600x300px) - Graduation ceremony image
+- travel1.jpg (600x300px) - Mountain landscape image
+- travel2.jpg (600x300px) - City skyline image
+- goals1.jpg (600x300px) - Career aspirations image
+- goals2.jpg (600x300px) - Personal development image
+
+Note: Replace these placeholder descriptions with actual images before final submission.
+You can use free stock photos from sites like Unsplash, Pexels, or Pixabay.
+Make sure all images are properly sized and optimized for web use.
